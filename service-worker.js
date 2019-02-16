@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/text-dictionary/precache-manifest.0f6eaa983aa0d21879fa60ab4a0452e6.js"
+  "/Text-Dictionary/precache-manifest.0b5993751e75870f32a3524a190318b5.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/text-dictionary/index.html", {
+workbox.routing.registerNavigationRoute("/Text-Dictionary/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

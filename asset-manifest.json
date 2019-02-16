@@ -1,14 +1,14 @@
 {
-  "main.css": "/text-dictionary/static/css/main.1b8e64be.chunk.css",
-  "main.js": "/text-dictionary/static/js/main.fd195760.chunk.js",
-  "main.js.map": "/text-dictionary/static/js/main.fd195760.chunk.js.map",
-  "runtime~main.js": "/text-dictionary/static/js/runtime~main.286e0796.js",
-  "runtime~main.js.map": "/text-dictionary/static/js/runtime~main.286e0796.js.map",
-  "static/js/2.ba1ca5ba.chunk.js": "/text-dictionary/static/js/2.ba1ca5ba.chunk.js",
-  "static/js/2.ba1ca5ba.chunk.js.map": "/text-dictionary/static/js/2.ba1ca5ba.chunk.js.map",
-  "index.html": "/text-dictionary/index.html",
-  "precache-manifest.0f6eaa983aa0d21879fa60ab4a0452e6.js": "/text-dictionary/precache-manifest.0f6eaa983aa0d21879fa60ab4a0452e6.js",
-  "service-worker.js": "/text-dictionary/service-worker.js",
-  "static/css/main.1b8e64be.chunk.css.map": "/text-dictionary/static/css/main.1b8e64be.chunk.css.map",
-  "static/media/logo.svg": "/text-dictionary/static/media/logo.5d5d9eef.svg"
+  "main.css": "/Text-Dictionary/static/css/main.1b8e64be.chunk.css",
+  "main.js": "/Text-Dictionary/static/js/main.8d0783de.chunk.js",
+  "main.js.map": "/Text-Dictionary/static/js/main.8d0783de.chunk.js.map",
+  "runtime~main.js": "/Text-Dictionary/static/js/runtime~main.dd227e25.js",
+  "runtime~main.js.map": "/Text-Dictionary/static/js/runtime~main.dd227e25.js.map",
+  "static/js/2.ba1ca5ba.chunk.js": "/Text-Dictionary/static/js/2.ba1ca5ba.chunk.js",
+  "static/js/2.ba1ca5ba.chunk.js.map": "/Text-Dictionary/static/js/2.ba1ca5ba.chunk.js.map",
+  "index.html": "/Text-Dictionary/index.html",
+  "precache-manifest.0b5993751e75870f32a3524a190318b5.js": "/Text-Dictionary/precache-manifest.0b5993751e75870f32a3524a190318b5.js",
+  "service-worker.js": "/Text-Dictionary/service-worker.js",
+  "static/css/main.1b8e64be.chunk.css.map": "/Text-Dictionary/static/css/main.1b8e64be.chunk.css.map",
+  "static/media/logo.svg": "/Text-Dictionary/static/media/logo.5d5d9eef.svg"
 }
