@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/texting-dictionary/static/js/runtime~main.2919b809.js"
   },
   {
-    "revision": "0fbf0177c2777a235aca",
-    "url": "/texting-dictionary/static/js/main.0fbf0177.chunk.js"
+    "revision": "45397bb857b0032be65c",
+    "url": "/texting-dictionary/static/js/main.45397bb8.chunk.js"
   },
   {
     "revision": "ba1ca5ba3f9c1e3c91ad",
     "url": "/texting-dictionary/static/js/2.ba1ca5ba.chunk.js"
   },
   {
-    "revision": "0fbf0177c2777a235aca",
+    "revision": "45397bb857b0032be65c",
     "url": "/texting-dictionary/static/css/main.1b8e64be.chunk.css"
   },
   {
-    "revision": "d73a2a9a4bb911a70194382e1a193872",
+    "revision": "60555dc0a7d19003bea78a7575791da3",
     "url": "/texting-dictionary/index.html"
   }
 ];
